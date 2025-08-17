@@ -29,9 +29,9 @@ export const Footer = () => {
             {/* Usage of this template requires attribution. Please don't remove the link to Once UI. */}
             / Build your portfolio with{" "}
             <SmartLink
-              href="https://once-ui.com/products/magic-portfolio"
+              href="https://www.pareeshyadav.in/contact"
             >
-              Once UI
+              me
             </SmartLink>
           </Text>
         </Text>
